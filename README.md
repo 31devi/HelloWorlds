@@ -1,1 +1,1 @@
-![HelloWorld](/hell.png)
+#[HelloWorlds](https://open.kattis.com/problems/hello)
